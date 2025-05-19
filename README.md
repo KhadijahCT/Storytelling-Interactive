@@ -1,5 +1,5 @@
 # Storytelling-Interactive 
-Check out this interactive I built! It includes one conditional, one loop, one variable and one custom block with input. 
+Check out this interactive I built! It includes a conditional, loop, variable and a custom block with input. 
 Steps to download file: Go to https://scratch.mit.edu/ 
 Select create at the top of the screen
 Click File and then load from your computer
